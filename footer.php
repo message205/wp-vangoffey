@@ -1,5 +1,6 @@
 		<?php
-//A change has been made in here			
+//A change has been made in here		
+//This is another comment.	
 		do_action( 'ava_before_footer' );	
 			
 		global $avia_config;
